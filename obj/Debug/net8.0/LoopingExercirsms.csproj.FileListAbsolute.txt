@@ -12,3 +12,4 @@ D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\ref
 D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\LoopingExercirsms.pdb
 D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\LoopingExercirsms.genruntimeconfig.cache
 D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\ref\LoopingExercirsms.dll
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\LoopingExercirsms.sourcelink.json
