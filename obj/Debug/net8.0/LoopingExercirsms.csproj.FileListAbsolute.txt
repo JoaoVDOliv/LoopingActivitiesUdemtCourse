@@ -1,0 +1,14 @@
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\bin\Debug\net8.0\LoopingExercirsms.exe
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\bin\Debug\net8.0\LoopingExercirsms.deps.json
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\bin\Debug\net8.0\LoopingExercirsms.runtimeconfig.json
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\bin\Debug\net8.0\LoopingExercirsms.dll
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\bin\Debug\net8.0\LoopingExercirsms.pdb
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\LoopingExercirsms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\LoopingExercirsms.AssemblyInfoInputs.cache
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\LoopingExercirsms.AssemblyInfo.cs
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\LoopingExercirsms.csproj.CoreCompileInputs.cache
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\LoopingExercirsms.dll
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\refint\LoopingExercirsms.dll
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\LoopingExercirsms.pdb
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\LoopingExercirsms.genruntimeconfig.cache
+D:\Projects\DotNETUdemy\LoopingExercirsms\LoopingExercirsms\obj\Debug\net8.0\ref\LoopingExercirsms.dll
