@@ -22,7 +22,7 @@ namespace LoopingExercirsms
                 Console.WriteLine("1-Activity about of read the biggest number");
                 Console.WriteLine("2-Activity about of functions of second degree (Baskara)");
                 Console.WriteLine("3-Activity about show the first 10 naturals numbers and summed them");
-                Console.WriteLine("4-Acitivity classic piramid");
+                Console.WriteLine("4-Acitivity  pyramid");
                 Console.WriteLine("--------------------------");
 
                 option = Convert.ToInt32(Console.ReadLine());
