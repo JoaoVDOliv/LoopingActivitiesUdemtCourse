@@ -19,8 +19,10 @@ namespace LoopingExercirsms
                 Console.WriteLine("Choose a option:");
                 Console.WriteLine("--------------------------");
                 Console.WriteLine("0-Exit");
-                Console.WriteLine("1-Activitie about of read the biggest number");
-                Console.WriteLine("2-Activitie about of functions of second degree (Baskara)");
+                Console.WriteLine("1-Activity about of read the biggest number");
+                Console.WriteLine("2-Activity about of functions of second degree (Baskara)");
+                Console.WriteLine("3-Activity about show the first 10 naturals numbers and summed them");
+                Console.WriteLine("4-Acitivity classic piramid");
                 Console.WriteLine("--------------------------");
 
                 option = Convert.ToInt32(Console.ReadLine());
@@ -39,6 +41,15 @@ namespace LoopingExercirsms
                     case 2:
                         Activity2 activity2 = new Activity2();
                         activity2.process();
+
+                        break;
+                    case 3:
+                        Activity3.process();
+
+                        break;
+
+                    case 4:
+                        Activity4.process();
 
                         break;
                     default:
