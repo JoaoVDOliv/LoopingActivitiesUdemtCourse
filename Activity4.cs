@@ -10,9 +10,9 @@ namespace LoopingExercirsms
     {
         public static void process()
         {
-            for (int i = 0; i < 5; i++) 
+            for (int i = 0; i <= 3; i++) 
             {
-                for(int j = 0; j < 5; j++)
+                for (int j = 0; j <= 3; j++)
                 {
                     if (j <= i)
                     {
@@ -22,9 +22,10 @@ namespace LoopingExercirsms
                     {
                         Console.Write(" ");
                     }
+
                 }
 
-                Console.WriteLine(" ");
+                Console.WriteLine(" ");                
             }
         }
     }
