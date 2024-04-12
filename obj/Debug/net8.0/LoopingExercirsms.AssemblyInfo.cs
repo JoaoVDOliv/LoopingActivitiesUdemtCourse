@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoopingExercirsms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb9496959d2682ca295c5757053032dd6301ff04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d528d81d45bfa1834dcb3c9a45b6732d7c8769ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoopingExercirsms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoopingExercirsms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
